@@ -1,7 +1,5 @@
 # 💫 About Me:
-
 👋 Hi, I'm Mohd Shahvez — **Backend Software Developer** 💻
-
 🚀 Specializing in **Java, Spring Boot, Node.js & Express.js**
 🏗️ Building **scalable, secure & multi-tenant backend architectures**
 ⚡ Experienced with **REST APIs, Spring Security, PostgreSQL, Prisma, Redis & AWS**
