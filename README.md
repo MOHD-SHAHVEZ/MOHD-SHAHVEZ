@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 Hi, I'm Mohd Shahvez — Java Developer & MCA Student 💻<br>🚀 Specializing in Spring Boot, RESTful APIs, and Spring Security 🔒<br>🏗️ Focused on building secure and scalable backend architectures<br>🔥 Passionate about clean code, problem-solving, and real-world applications<br>📚 Always learning & leveling up in backend development!
+
+👋 Hi, I'm Mohd Shahvez — **Backend Software Developer** 💻
+
+🚀 Specializing in **Java, Spring Boot, Node.js & Express.js**
+🏗️ Building **scalable, secure & multi-tenant backend architectures**
+⚡ Experienced with **REST APIs, Spring Security, PostgreSQL, Prisma, Redis & AWS**
+🔐 Working on **Authentication, Payments, Webhooks & WebSocket-based systems**
+📈 Focused on **system design, performance optimization & clean code**
+🔥 Passionate about solving real-world problems and building production-ready applications
+📚 Always learning, improving, and leveling up in **Backend Engineering!**
+
 
 
 ## 🌐 Socials:
